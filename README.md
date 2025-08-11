@@ -1,6 +1,5 @@
-# 🚀🎥 SnapCall - Live Video Conferencing Platform
+# SnapCall - Live Video Conferencing Platform
 
-## 🔥 Overview  
 **SnapCall** lets you **Connect with your loved ones** anytime, anywhere with smooth, real-time video calls!  
 Built for easy, secure, and high-quality video conferencing.
 
@@ -36,7 +35,34 @@ Built for easy, secure, and high-quality video conferencing.
 5. Share your unique room URL to invite others  
 
 ---
+## 📦Installation  
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+
+# Install backend dependencies
+cd backend
+npm install
+npm run dev
+
+# Install frontend dependencies
+cd frontend
+npm install
+npm start
+
+---
+
+## 💡 Future Enhancements  
+- Add more interactive features like reactions, file sharing  
+- Improve UI/UX for mobile devices  
+- Add recording functionality
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome.
+For major changes, please open an issue first to discuss what you would like to change.
 
 
-Made with ❤️ by Kishor
+
+Made with ❤️ by Kishor.
 
