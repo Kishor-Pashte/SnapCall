@@ -37,14 +37,14 @@ Built for easy, secure, and high-quality video conferencing.
 ---
 ## 📦Installation  
 git clone https://github.com/Kishor-Pashte/SnapCall.git
-cd your-repo-name
+cd SnapCall
 
-# Install backend dependencies
+Install backend dependencies
 cd backend
 npm install
 npm run dev
 
-# Install frontend dependencies
+Install frontend dependencies
 cd frontend
 npm install
 npm start
