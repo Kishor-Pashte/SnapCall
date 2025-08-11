@@ -1,4 +1,4 @@
-# 🚀 SnapCall - Live Video Conferencing Platform
+# 🚀🎥 SnapCall - Live Video Conferencing Platform
 
 ## 🔥 Overview  
 **SnapCall** lets you **Connect with your loved ones** anytime, anywhere with smooth, real-time video calls!  
