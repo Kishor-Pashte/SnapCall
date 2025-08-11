@@ -37,9 +37,6 @@ Built for easy, secure, and high-quality video conferencing.
 
 ---
 
-## 📸 Screenshots  
-*(Add your screenshots here)*  
-![Screenshot 1](./Screenshot%202025-08-12%20003946.png)  
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Kishor
 
