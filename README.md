@@ -35,23 +35,6 @@ Built for easy, secure, and high-quality video conferencing.
 5. Share your unique room URL to invite others  
 
 ---
-## 📦Installation  
-# Clone the repo
-git clone https://github.com/Kishor-Pashte/SnapCall.git
-cd your-repo-name
-
-# Install backend dependencies
-cd backend
-npm install
-npm start
-
-# Install frontend dependencies
-cd ../frontend
-npm install
-npm start
-
-
----
 
 ## 💡 Future Enhancements  
 - Add more interactive features like reactions, file sharing  
